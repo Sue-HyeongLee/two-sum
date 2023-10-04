@@ -20,10 +20,10 @@ nums = [3,2,4]
 target = 6
 return_list = twoSum(nums, target)
 print("Output: [%d, %d]" %(return_list[0], return_list[1]))
-print("Explanation: Because nums[%d] +nums[%d] == 9, we return [%d, %d]" %(return_list[0], return_list[1],return_list[0], return_list[1]))
+print("Explanation: Because nums[%d] +nums[%d] == 6, we return [%d, %d]" %(return_list[0], return_list[1],return_list[0], return_list[1]))
 
 nums = [3,3]
 target = 6
 return_list = twoSum(nums, target)
 print("Output: [%d, %d]" %(return_list[0], return_list[1]))
-print("Explanation: Because nums[%d] +nums[%d] == 9, we return [%d, %d]" %(return_list[0], return_list[1], return_list[0], return_list[1])) 
+print("Explanation: Because nums[%d] +nums[%d] == 6, we return [%d, %d]" %(return_list[0], return_list[1], return_list[0], return_list[1])) 
